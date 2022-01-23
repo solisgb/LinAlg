@@ -1,4 +1,6 @@
 # LinAlg
-Basic linear algebra exercises using Introduction to Linear Algebra by Gilbert Strang and GNU Octave
+Notes and some exrcises from: 
 
-https://math.mit.edu/~gs/linearalgebra/
+MIT OCW Introduction to Linear Algebra https://math.mit.edu/~gs/linearalgebra/
+
+And the book Introduction to Linear Algebra by Gilbert Strang
